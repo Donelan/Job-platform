@@ -1,0 +1,40 @@
+.common {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.overflow {
+    overflow: hidden;
+}
+
+.fr {
+    float: right;
+}
+
+.fl {
+    float: left;
+}
+
+.flex {
+    display: flex;
+}
+
+.justify-conent-center {
+    justify-content: center
+}
+
+.between {
+    justify-content: space-between;
+}
+
+.align-center {
+    align-items: center
+}
+
+.wrap {
+    flex-wrap: wrap;
+}
+
+.mt-20 {
+    margin-top: 20px;
+}
